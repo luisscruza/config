@@ -1,2 +1,2 @@
 #Ignore private aliases
-.private.sh
+*.private.sh
