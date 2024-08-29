@@ -6,3 +6,4 @@ alias uncommit='git reset --soft HEAD^'
 
 alias gpl='git pull'
 alias gp='git push'
+alias gps='git push --set-upstream origin $(git_current_branch)'
