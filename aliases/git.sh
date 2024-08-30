@@ -1,6 +1,7 @@
 alias wip='git add . && git commit -m "WIP"'
 alias wipd='git add . && git commit -m "WIP" && git push'
 alias ga='git add .'
+alias gc='git checkout'
 
 alias uncommit='git reset --soft HEAD^'
 
