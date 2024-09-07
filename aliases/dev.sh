@@ -6,6 +6,7 @@ alias compu='composer update'
 # Laravel
 alias pa='php artisan'
 alias pas='php artisan serve'
+alias pam='php artisan make:model'
 
 # NPM
 alias nrd='npm run dev'
