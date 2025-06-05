@@ -2,6 +2,7 @@
 alias composer="php /usr/local/bin/composer.phar"
 alias compi='composer install'
 alias compu='composer update'
+alias co='composer'
 
 # Laravel
 alias pa='php artisan'
@@ -23,3 +24,8 @@ alias finder='open -a Finder'
 
 # Custom
 alias localip='ipconfig getifaddr en0'
+
+# Podman
+alias psa='podman pod start --all'
+
+
